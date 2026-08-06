@@ -325,6 +325,7 @@ h1,h2,h3,h4{
 .tag-kids{ background: var(--green); }
 .tag-teens{ background: var(--purple); }
 .tag-soon{ background: var(--ink-soft); }
+.tag-gratis{ background: var(--yellow-dark); }
 .product-card h3{ font-size:1.4rem; }
 .product-card p{ color: var(--ink-soft); font-size:.96rem; flex:1; }
 .product-card .price-row{
